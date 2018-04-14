@@ -3,7 +3,7 @@ data:extend(
 		{
 			type = "item",
 			name = "drilling-pumpjack",
-			icon = "__DrillingPumpjack__/graphics/drilling-pumpjack-icon.png",
+			icon = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-icon.png",
 	        icon_size = 32,
 			flags = {"goes-to-quickbar"},
 			subgroup = "extraction-machine",
@@ -15,7 +15,7 @@ data:extend(
 		{
 			type = "item",
 			name = "drilling-pumpjack-mk2",
-			icon = "__DrillingPumpjack__/graphics/drilling-pumpjack-mk2-icon.png",
+			icon = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-mk2-icon.png",
 	        icon_size = 32,
 			flags = {"goes-to-quickbar"},
 			subgroup = "extraction-machine",
@@ -26,7 +26,7 @@ data:extend(
 		{
 			type = "item",
 			name = "drilling-pumpjack-mk3",
-			icon = "__DrillingPumpjack__/graphics/drilling-pumpjack-mk3-icon.png",
+			icon = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-mk3-icon.png",
 	        icon_size = 32,
 			flags = {"goes-to-quickbar"},
 			subgroup = "extraction-machine",

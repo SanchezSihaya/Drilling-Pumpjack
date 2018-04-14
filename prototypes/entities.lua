@@ -3,7 +3,7 @@ data:extend(
 		{
 			type = "assembling-machine",
 			name = "drilling-pumpjack",
-			icon = "__DrillingPumpjack__/graphics/drilling-pumpjack-icon.png",
+			icon = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-icon.png",
 			icon_size = 32,
 			flags = {"placeable-neutral", "placeable-player", "player-creation"},
 			minable = {hardness = 0.2, mining_time = 0.5, result = "drilling-pumpjack"},
@@ -52,7 +52,7 @@ data:extend(
 			},
 			animation =
 			{
-				filename = "__DrillingPumpjack__/graphics/drilling-pumpjack-anim.png",
+				filename = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-anim.png",
 				priority = "high",
 				width = 116,
 				height = 110,
@@ -89,7 +89,7 @@ data:extend(
 		{
 			type = "assembling-machine",
 			name = "drilling-pumpjack-mk2",
-			icon = "__DrillingPumpjack__/graphics/drilling-pumpjack-mk2-icon.png",
+			icon = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-mk2-icon.png",
 			icon_size = 32,
 			flags = {"placeable-neutral", "placeable-player", "player-creation"},
 			minable = {hardness = 0.2, mining_time = 0.5, result = "drilling-pumpjack-mk2"},
@@ -138,7 +138,7 @@ data:extend(
 			},
 			animation =
 			{
-				filename = "__DrillingPumpjack__/graphics/drilling-pumpjack-mk2-anim.png",
+				filename = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-mk2-anim.png",
 				priority = "high",
 				width = 116,
 				height = 110,
@@ -175,7 +175,7 @@ data:extend(
 		{
 			type = "assembling-machine",
 			name = "drilling-pumpjack-mk3",
-			icon = "__DrillingPumpjack__/graphics/drilling-pumpjack-mk3-icon.png",
+			icon = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-mk3-icon.png",
 			icon_size = 32,
 			flags = {"placeable-neutral", "placeable-player", "player-creation"},
 			minable = {hardness = 0.2, mining_time = 0.5, result = "drilling-pumpjack-mk3"},
@@ -224,7 +224,7 @@ data:extend(
 			},
 			animation =
 			{
-				filename = "__DrillingPumpjack__/graphics/drilling-pumpjack-mk3-anim.png",
+				filename = "__Drilling_Pumpjacks__/graphics/drilling-pumpjack-mk3-anim.png",
 				priority = "high",
 				width = 116,
 				height = 110,
