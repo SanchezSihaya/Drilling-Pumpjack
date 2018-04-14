@@ -1,5 +1,5 @@
 --debug_status = 1
-debug_mod_name = "DrillingPumpjack"
+debug_mod_name = "Drilling_Pumpjacks"
 debug_file = debug_mod_name .. "-debug.txt"
 require("utils")
 
